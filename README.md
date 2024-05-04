@@ -61,7 +61,7 @@
                         <h3>Wilma Newhoudt-Druchen</h3>
                         <p>Wilma Newhoudt-Druchen, la primera mujer sorda parlamentaria (Sudáfrica 1999), trabaja por hacer accesible la comunicación con intérpretes de Lengua de Señas.</p>
                         <img src="./imagen/imagen 1.jpg" alt="Wilma Newhoudt-Druchen" class="article-image">
-                        <p><a href="http://127.0.0.1:5500/index%201/html%2011.html">Leer más</a></p>
+                        <p><a href="./html 1.html">Leer más</a></p>
                     </article>
                 </div>
                 
@@ -70,7 +70,7 @@
                         <h3>Marlee Matlin</h3>
                         <p>Marlee Matlin, actriz sorda, se llevó la estatuilla a mejor actriz en los premios Oscar. Su historia inspiró la película "Sound of Metal".</p>
                         <img src="./imagen/imagen 2.jpg" alt="Marlee Matlin" class="article-image">
-                        <p><a href="http://127.0.0.1:5500/index%201/html%202.html">Leer más</a></p>
+                        <p><a href="./html 2.html">Leer más</a></p>
                     </article>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                         <h3>Laura Redden Searing</h3>
                         <p>Laura Redden Searing, poetisa y periodista sorda, escribió bajo el pseudónimo masculino Howard Glyndon. Su obra incluye "Idyls of Battle, and Poems of the Rebellion".</p>
                         <img src="./imagen/imagen 3.jpg" alt="Laura Redden Searing" class="article-image">
-                        <p><a href="http://127.0.0.1:5500/index%201/html%203.html">Leer más</a></p>
+                        <p><a href="./html 3.html">Leer más</a></p>
                     </article>
                 </div>
 
@@ -90,7 +90,7 @@
                         <h3>Nellie Zabel Willhite</h3>
                         <p>Nellie Zabel Willhite, activista sorda, luchó por los derechos de las mujeres y las personas con discapacidad. Su legado perdura como ejemplo de valentía y determinación.</p>
                         <img src="./imagen/imagen 4.jpg" alt="Nellie Zabel Willhite" class="article-image">
-                        <p><a href="http://127.0.0.1:5500/index%201/html%204.html">Leer más</a></p>
+                        <p><a href="./html 4.html">Leer más</a></p>
                     </article>
                 </div>
             </div>
@@ -146,7 +146,7 @@ Teléfono: 3002367508| | Redes Sociales: <a href="#">Facebook</a>, <a href="#">T
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-   
+                                                                                   
     
    
          
